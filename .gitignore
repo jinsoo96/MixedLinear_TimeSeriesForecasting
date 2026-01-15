@@ -1,0 +1,92 @@
+# Claude Code
+.claude/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# Virtual Environment
+venv/
+env/
+ENV/
+.venv
+
+# Jupyter Notebook
+.ipynb_checkpoints
+*.ipynb_checkpoints
+
+# PyTorch
+*.pth
+*.pt
+checkpoints/
+*.ckpt
+
+# Results and outputs
+results/
+test_results/
+*.npy
+*.npz
+result.txt
+*.pdf
+*.png
+*.jpg
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# Data files (uncomment if you don't want to track data)
+# Data_Raw/
+# Data_Final/
+*.csv
+*.xlsx
+*.xls
+
+# Logs
+*.log
+logs/
+
+# OS
+Thumbs.db
+.DS_Store
+
+# Temporary files
+*.tmp
+*.temp
+*.bak
+
+# Model outputs
+Pictures/
+*.pkl
+
+# Environment variables
+.env
+.env.local
+
+# Large files
+*.zip
+*.tar.gz
+*.rar
