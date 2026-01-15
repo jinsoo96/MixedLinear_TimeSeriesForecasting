@@ -50,6 +50,9 @@ result.txt
 *.png
 *.jpg
 
+# Exception for assets folder
+!assets/*.png
+
 # IDE
 .vscode/
 .idea/
