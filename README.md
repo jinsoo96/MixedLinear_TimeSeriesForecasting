@@ -63,7 +63,7 @@ Mixed_Linear/
 │   ├── Data_run.py             # Unified model execution script
 │   └── Date_Processor.py       # Date filtering, preprocessing, PCA
 │
-├── Notebooks/
+├── notebooks/
 │   ├── 01_Data_Collection.ipynb          # Data collection
 │   ├── 02_Data_Preprocessing.ipynb       # Data preprocessing
 │   ├── 03_Model_Training.ipynb           # Model training (main)
@@ -85,8 +85,8 @@ Mixed_Linear/
 
 ```bash
 # Clone the repository
-git clone https://github.com/jinsoo96/MixedLinear_TimeSeriesForecasting.git
-cd MixedLinear_TimeSeriesForecasting
+git clone https://github.com/jinsoo96/MixedLinear_Time_Series_Forecasting.git
+cd MixedLinear_Time_Series_Forecasting
 
 # Create virtual environment (recommended)
 python -m venv venv
